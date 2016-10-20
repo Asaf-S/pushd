@@ -2,3 +2,5 @@ node_modules/
 # settings.coffee
 *.pem
 *.swp
+
+.DS_Store
