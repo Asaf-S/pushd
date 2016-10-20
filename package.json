@@ -49,5 +49,5 @@
         "mocha": "*",
         "should": "*"
     },
-    "licenses": "MIT"
+    "license": "MIT"
 }
